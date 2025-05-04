@@ -1,4 +1,4 @@
-# Nutec Learning Platform
+# Blitz Learning Platform
 
 A modern, responsive online learning platform built with React and TypeScript. This project demonstrates how to create a full-featured learning management system without using a traditional database, instead utilizing browser storage for data persistence.
 
